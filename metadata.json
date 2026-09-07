@@ -1,0 +1,6 @@
+{
+  "name": "BoardingHub",
+  "description": "Philippine-focused boarding-house and rental property management platform for owners: configure rooms & beds per floor, manage tenant occupancy, track GCash/Maya rent payments, utility billing, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
